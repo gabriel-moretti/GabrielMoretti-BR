@@ -40,7 +40,7 @@
   - GPU: 1650Ti
   - SSD: 51Gb
   - OS: Windows 10 + WSL2 (w/Ubuntu)
-- Perfericos
+- Perifericos
   - Monitor: LG 29' Ultra Wide
   - Keyboard: Rk84 - Gateron Browns, Tape Mod and Foan Mod.
   - Mouse: Logitech Mx Master 2s or G502
