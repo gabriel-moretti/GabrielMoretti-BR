@@ -1,6 +1,6 @@
 ## Olá, eu so o Gabriel Moretti ^^
 
-- 🔭 Hoje trabalho com Analise de Dados. 
+- 🔭 Hoje trabalho coma Analista de Dados At. Drogaria Total - Drogaria Da Leticia. 
 - 🌱 Estudando: React, Typescript, Node.js e Pandas.
 - 😄 Pronouns: ele/dele.
 - ⚡ Fun fact: i'm a Keyboard Addicted 
@@ -43,5 +43,5 @@
 - Perifericos
   - Monitor: LG 29' Ultra Wide
   - Keyboard: Rk84 - Gateron Browns, Tape Mod and Foan Mod.
-  - Mouse: Logitech Mx Master 2s or G502
-  - Headset: Hyperx Cloud 2 or KZ ZST Pro
+  - Mouse: Logitech Mx Master 2s And G502
+  - Headset: Hyperx Cloud 2 And KZ ZST Pro
