@@ -38,7 +38,7 @@
   - Memoria Ram: 16Gb
   - GPU: 1650Ti
   - SSD: 51Gb
-  - OS: Windows 10 + WSL2 (w/Ubuntu)
+  - OS: Windows 11 + WSL2 (w/Ubuntu)
 - Perifericos
   - Monitor: LG 29' Ultra Wide
   - Keyboard: Rk84 - Gateron Browns, Tape Mod and Foan Mod.
