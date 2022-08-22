@@ -34,7 +34,7 @@
   
 ## Setup
 - Acer Nitro 5
-  - Processador: i5ª 10
+  - Processador: i5 10ª
   - Memoria Ram: 16Gb
   - GPU: 1650Ti
   - SSD: 51Gb
