@@ -1,6 +1,5 @@
 ## Olá, eu so o Gabriel Moretti ^^
 
-- 🔭 Hoje trabalho coma Analista de Dados At. Drogaria Total - Drogaria Da Leticia. 
 - 🌱 Estudando: React, Typescript, Node.js e Pandas.
 - ⚡ Fun fact: i'm a Keyboard Addicted 
 
