@@ -1,4 +1,4 @@
-## Olá, eu so o Gabriel Moretti ^^
+## Olá, eu sou o Gabriel Moretti ^^
 
 - 🌱 Estudando: React, Typescript, Node.js e Pandas.
 - ⚡ Fun fact: i'm a Keyboard Addicted 
