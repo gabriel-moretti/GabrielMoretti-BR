@@ -32,14 +32,15 @@
  </div>
   
 ## Setup
-- Acer Nitro 5
-  - Processador: i5 10ª
-  - Memoria Ram: 16Gb
-  - GPU: 1650Ti
-  - SSD: 51Gb
+- White Build Descktop
+  - Processador: Tyzen 7 - 5700x
+  - Memoria Ram: 32Gb
+  - GPU: 1060
+  - SSD: 1Tb + 240Gb
   - OS: Windows 11 + WSL2 (w/Ubuntu)
 - Perifericos
+  - Monitor: LG 27' IPS
   - Monitor: LG 29' Ultra Wide
   - Keyboard: Rk84 - Gateron Browns, Tape Mod and Foan Mod.
-  - Mouse: Logitech Mx Master 2s And G502
-  - Headset: Hyperx Cloud 2 And KZ ZST Pro
+  - Mouse: Logitech Mx Master 2s And M800 pro
+  - Headset: Hyperx Cloud 2 And Galaxy Byds 2
