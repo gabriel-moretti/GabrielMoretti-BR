@@ -1,5 +1,5 @@
 ## Olá, eu sou o Gabriel Moretti ^^
-
+- 🛠️ Trabalhando: FrontEnd e UX.
 - 🌱 Estudando: React, Typescript, Node.js e Pandas.
 - ⚡ Fun fact: i'm a Keyboard Addicted 
 
