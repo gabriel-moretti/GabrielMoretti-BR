@@ -33,11 +33,12 @@
   
 ## Setup
 - White Build Descktop
-  - Processador: Tyzen 7 - 5700x
+  - Processador: Ryzen 7 - 5700x
   - Memoria Ram: 32Gb
   - GPU: 1060
   - SSD: 1Tb + 240Gb
-  - OS: Windows 11 + WSL2 (w/Ubuntu)
+  - Game-OS: Windows 11 + WSL2 (w/Ubuntu)
+  - Main-Os: Arch I3 Window Manager
 - Perifericos
   - Monitor: LG 27' IPS
   - Monitor: LG 29' Ultra Wide
