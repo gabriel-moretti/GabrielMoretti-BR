@@ -1,19 +1,18 @@
-## Hi, my name is Gabriel Moretti ^^
-[![en](https://img.shields.io/badge/Language-en-informational.svg)]()
-[![pt-br](https://img.shields.io/badge/Language-pt--br-yellowgreen.svg)](README.pt-br.md)
-- 🛠️ Working: FrontEnd e UX.
-  - Using: React.Js, Svelte, Node.js, Typescript e Cyberpanel.
-- 🌱 Studying: Nginx, React, Svelte e Next.js.
-- ⚡ Fun fact: I'm a keyboard addicted.
-  - Building: Sofle RGB
-    - <i>Trying to add a psp joystick as mouse control.</i>
-  - Design: Handwire Numpad with lego..
+## Olá, eu sou o Gabriel Moretti ^^
+[![en](https://img.shields.io/badge/Language-en-informational.svg)](./README.md)
+[![pt-br](https://img.shields.io/badge/Language-pt--br-yellowgreen.svg)]()
+- 🛠️ Trabalhando: FrontEnd e UX.
+  - Usando: React.Js, Svelte, Node.js, Typescript e Cyberpanel.
+- 🌱 Estudando: Nginx, React, Svelte e Next.js.
+- ⚡ Fato Interessante: Sou viciado em teclados.
+  - Montando: Sofle RGB
+    - <i>Tentando adicionar joystick psp para controlar o mouse.</i>
+  - Projetando: Teclado numerico sem PCB de lego.
 
+## Sobre
+  Quando era pequeno vivia com um Lego na mão, mas nunca montava o que estava na caixa, afinal o que mais me encantava era a possibilidade de criar algo diferente. A curiosidade de como as coisas funcionam sempre me instigou a tentar compreendê-las, possibilitando novas ideias para desenvolvimentos. Esta curiosidade de sempre ter uma possível melhoria em tudo me trouxe diversos momentos de insight em minha carreira.
 
-## About me
-When I was young, I always had a Lego in my hand, but I never built what was in the box. After all, what fascinated me the most was the possibility of creating something different. The curiosity of how things work always prompted me to try to understand them, opening up new ideas for development. This curiosity of always seeking possible improvements in everything has brought me numerous moments of insight in my career.
-
-## Technologies
+## Tecnologias
 <div align="center"> 
   <a href="https://github.com/gabriel-moretti">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Moretti&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
@@ -26,7 +25,7 @@ When I was young, I always had a Lego in my hand, but I never built what was in 
   </a>
 </div>
 <div style="display: inline_block" align="center"><br>
-  <h3>Favorites Skills</h3>
+  <h3>Habilidades Favoritas</h3>
     <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" > 
     <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" > 
     <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" > 
@@ -41,7 +40,7 @@ When I was young, I always had a Lego in my hand, but I never built what was in 
     <img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" >
     <img align="center" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" >
     <img align="center" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" > 
-  <h3>Skills</h3> 
+  <h3>Habilidades</h3> 
     <div align="justify"> 
     <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" > 
     <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" > 
@@ -86,21 +85,20 @@ When I was young, I always had a Lego in my hand, but I never built what was in 
   <a href = "mailto:gabrielmjorge@hotmail.com"><img src="https://img.shields.io/badge/-E Mail-%23333?style=for-the-badge&logo=minutemailer&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/gabriel-moretti-br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="www.linkedin.com/in/gabriel-moretti-br" target="_blank"><img src="https://img.shields.io/badge/-Reddit-%230077B5?style=for-the-badge&color=FF4500&logo=reddit&logoColor=white" target="_blank"></a> 
-</div>
+ </div>
 <div align="center"> 
   <a href="https://ko-fi.com/T6T6LAGXI" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" target="_blank"></a>
 </div>
-
-
+  
 ## Dev Env
-- Desktop snow Theme
-  - Game-OS: Windows 11 + WSL2 (w/Ubuntu)
-  - Principal-OS: Arch w/Bspwm (rice)
-- Peripherals
-  - Monitors: LG 27' IPS + LG 29' Ultra Wide.
-  - Keyboard: Rk84 - JWICK T1, Tape Mod, Foan Mod e GMK 8008.
+- Desktop Tema Neve
+  - Game-SO: Windows 11 + WSL2 (w/Ubuntu)
+  - Principal-SO: Arch w/Bspwm (rice)
+- Perifericos
+  - Monitores: LG 27' IPS + LG 29' Ultra Wide.
+  - Teclado: Rk84 - JWICK T1, Tape Mod, Foan Mod e GMK 8008.
   - Mouse: Logitech Mx Master 2s e M800.
   - Headset: Hyperx Cloud 2 e Galaxy Buds 2.
-  - Microphone: TGT Anzer.
+  - Microfone: TGT Anzer.
 
 [![](https://visitcount.itsvg.in/api?id=Gabriel-Moretti&icon=5&color=0)](https://visitcount.itsvg.in)
