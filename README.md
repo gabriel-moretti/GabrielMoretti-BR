@@ -1,7 +1,8 @@
 ## Olá, eu sou o Gabriel Moretti ^^
 - 🛠️ Trabalhando: FrontEnd e UX.
-- 🌱 Estudando: React, Typescript, Node.js e Pandas.
-- ⚡ Fun fact: i'm a Keyboard Addicted 
+  - Usando: React.Js, Svelte, Node.js, Typescript e Cyberpanel
+- 🌱 Estudando: React, Svelte e Next.js.
+- ⚡ Fun fact: i'm a Keyboard Addicted.
 
 ##
 
@@ -19,7 +20,7 @@
 <div align="center">
   <a href="https://github.com/GabrielMoretti-BR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoretti-BR&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoretti-BR&layout=compact&langs_count=7&theme=dracula"/>--->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoretti-BR&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
@@ -32,16 +33,17 @@
  </div>
   
 ## Setup
-- White Build Descktop
+- White Build Desktop
   - Processador: Ryzen 7 - 5700x
   - Memoria Ram: 32Gb
-  - GPU: 1060
+  - GPU: GTX 1060 ( Custom )
   - SSD: 1Tb + 240Gb
   - Game-OS: Windows 11 + WSL2 (w/Ubuntu)
-  - Main-Os: Arch I3 Window Manager
+  - Main-Os: Arch w/Bspwm (rice)
 - Perifericos
   - Monitor: LG 27' IPS
   - Monitor: LG 29' Ultra Wide
-  - Keyboard: Rk84 - Gateron Browns, Tape Mod and Foan Mod.
+  - Keyboard: Rk84 - JWICK T1, Tape Mod, Foan Mod e GMK 8008.
   - Mouse: Logitech Mx Master 2s And M800 pro
   - Headset: Hyperx Cloud 2 And Galaxy Byds 2
+  - Microphone: TGT Anzer.
