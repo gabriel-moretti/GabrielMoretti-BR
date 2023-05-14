@@ -3,7 +3,8 @@
   - Usando: React.Js, Svelte, Node.js, Typescript e Cyberpanel
 - 🌱 Estudando: React, Svelte e Next.js.
 - ⚡ Fun fact: i'm a Keyboard Addicted.
-
+  - Building: Sofle RGB  
+  - Design: Handwired Numpad
 ##
 
 <div style="display: inline_block" align="center"><br>
