@@ -6,7 +6,6 @@
 - 🌱 Studying: Nginx, React, Svelte e Next.js.
 - ⚡ Fun fact: I'm a keyboard addicted.
   - Building: Sofle RGB
-    - <i>Trying to add a psp joystick as mouse control.</i>
   - Design: Handwire Numpad with lego..
 
 
@@ -95,12 +94,12 @@ When I was young, I always had a Lego in my hand, but I never built what was in 
 ## Dev Env
 - Desktop snow Theme
   - Game-OS: Windows 11 + WSL2 (w/Ubuntu)
-  - Principal-OS: Arch w/Bspwm (rice)
+  - Main-OS: Arch w/Bspwm (rice)
 - Peripherals
   - Monitors: LG 27' IPS + LG 29' Ultra Wide.
-  - Keyboard: Rk84 - JWICK T1, Tape Mod, Foan Mod e GMK 8008.
-  - Mouse: Logitech Mx Master 2s e M800.
-  - Headset: Hyperx Cloud 2 e Galaxy Buds 2.
+  - Keyboard: Sofle V2 - Building...
+  - Mouse: Logitech Mx Master 2s and M800.
+  - Headset: Hyperx Cloud 2 aand Galaxy Buds 2.
   - Microphone: TGT Anzer.
 
 [![](https://visitcount.itsvg.in/api?id=Gabriel-Moretti&icon=5&color=0)](https://visitcount.itsvg.in)
