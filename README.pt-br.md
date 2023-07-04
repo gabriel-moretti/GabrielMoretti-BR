@@ -6,7 +6,6 @@
 - 🌱 Estudando: Nginx, React, Svelte e Next.js.
 - ⚡ Fato Interessante: Sou viciado em teclados.
   - Montando: Sofle RGB
-    - <i>Tentando adicionar joystick psp para controlar o mouse.</i>
   - Projetando: Teclado numerico sem PCB de lego.
 
 ## Sobre
@@ -96,7 +95,7 @@
   - Principal-SO: Arch w/Bspwm (rice)
 - Perifericos
   - Monitores: LG 27' IPS + LG 29' Ultra Wide.
-  - Teclado: Rk84 - JWICK T1, Tape Mod, Foan Mod e GMK 8008.
+  - Teclado: Sofle V2 - Personalizando...
   - Mouse: Logitech Mx Master 2s e M800.
   - Headset: Hyperx Cloud 2 e Galaxy Buds 2.
   - Microfone: TGT Anzer.
