@@ -2,10 +2,9 @@
 [![en](https://img.shields.io/badge/Language-en-informational.svg)]()
 [![pt-br](https://img.shields.io/badge/Language-pt--br-yellowgreen.svg)](README.pt-br.md)
 - 🛠️ Working: FrontEnd e UX.
-  - Using: React.Js, Svelte, Node.js, Typescript e Cyberpanel.
-- 🌱 Studying: Nginx, React, Svelte e Next.js.
+  - Using: Next.Js, Node.js, Typescript e Nest.Js.
+- 🌱 Studying: AI, Kubernetes and more about devops.
 - ⚡ Fun fact: I'm a keyboard addicted.
-  - Building: Sofle RGB
   - Design: Handwire Numpad with lego..
 
 
