@@ -1,8 +1,8 @@
 ## Hi, my name is Gabriel Moretti ^^
 [![en](https://img.shields.io/badge/Language-en-informational.svg)]()
 [![pt-br](https://img.shields.io/badge/Language-pt--br-yellowgreen.svg)](README.pt-br.md)
-- 🛠️ Working: FrontEnd e UX.
-  - Using: Next.Js, Node.js, Typescript e Nest.Js.
+- 🛠️ Working: FullStack.
+  - Using: Next.Js, Nest.Js, Typescript e Nest.Js.
 - 🌱 Studying: AI, Kubernetes and more about devops.
 - ⚡ Fun fact: I'm a keyboard addicted.
   - Design: Handwire Numpad with lego..
