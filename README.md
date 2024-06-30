@@ -2,7 +2,7 @@
 [![en](https://img.shields.io/badge/Language-en-informational.svg)]()
 [![pt-br](https://img.shields.io/badge/Language-pt--br-yellowgreen.svg)](README.pt-br.md)
 - 🛠️ Working: FullStack.
-  - Using: Next.Js, Nest.Js, Typescript e Nest.Js.
+  - Using: Next.Js, Nest.Js e Typescript.
 - 🌱 Studying: AI, Kubernetes and more about devops.
 - ⚡ Fun fact: I'm a keyboard addicted.
   - Design: Handwire Numpad with lego..
