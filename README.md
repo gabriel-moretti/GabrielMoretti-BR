@@ -1,81 +1,32 @@
 ## Hi, my name is Gabriel Moretti ^^
 [![en](https://img.shields.io/badge/Language-en-informational.svg)]()
 [![pt-br](https://img.shields.io/badge/Language-pt--br-yellowgreen.svg)](README.pt-br.md)
-- 🛠️ Working: FullStack.
-  - Using: Next.Js, Nest.Js e Typescript.
-- 🌱 Studying: AI, Kubernetes and more about devops.
-- ⚡ Fun fact: I'm a keyboard addicted.
-  - Design: Handwire Numpad with lego..
 
+- 🛠️ Working: FullStack.
+  - Using: Next.Js and Nest.Js with Typescript.
+- 🌱 Studying: Golang and software architecture.
+- ⚡ Fun fact: I'm a keyboard addicted.
 
 ## About me
 When I was young, I always had a Lego in my hand, but I never built what was in the box. After all, what fascinated me the most was the possibility of creating something different. The curiosity of how things work always prompted me to try to understand them, opening up new ideas for development. This curiosity of always seeking possible improvements in everything has brought me numerous moments of insight in my career.
 
-## Technologies
-<div align="center"> 
-  <a href="https://github.com/gabriel-moretti">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Moretti&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Moretti&layout=compact&langs_count=7&theme=outrun"/>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-moretti&theme=outrun&mode=weekly" alt="gabriel-moretti" /></p>
-    <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cb76e4c3-c5d4-4e10-b37f-6c129a34be9d" alt="gabriel_moretti" /></p> -->
-  <a/>
-  <a href="https://wakatime.com/@cb76e4c3-c5d4-4e10-b37f-6c129a34be9d">
-    <img align="center" alt="wakaTime"src="https://wakatime.com/badge/user/cb76e4c3-c5d4-4e10-b37f-6c129a34be9d.svg">
-  </a>
+## Technologies Registered on Github
+
+<div style="display: flex; justify-content: flex-start; gap: 5px; align-items: center;" align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-moretti&theme=outrun&theme=outrun" alt="gabriel-moretti" style="width:33%; height: 100%;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Moretti&rank_icon=github&show_icons=true&theme=outrun&include_all_commits=true&count_private=true" style="width:33%; height: 100%;"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Moretti&hide_progress=true&langs_count=4&theme=outrun" style="width:33%; height: 100%;"/>
 </div>
-<div style="display: inline_block" align="center"><br>
-  <h3>Favorites Skills</h3>
-    <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" > 
-    <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" > 
-    <img align="center" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" > 
-    <img align="center" src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" >
-    <img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" >
-    <img align="center" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" >
-    <img align="center" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" > 
-  <h3>Skills</h3> 
-    <div align="justify"> 
-    <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" > 
-    <img align="center" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" > 
-    <img align="center" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" > 
-    <img align="center" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" >   
-    <img align="center" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" > 
-    <img align="center" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" > 
-    <img align="center" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" > 
+
+
+## Time Coding on Waka Time 
+<div align="center"> 
+  <a  href="https://wakatime.com"><img style="background-color: black; padding: 5px; border-radius:10px; width: 74%;" src="https://wakatime.com/share/@gabriel_moretti/a5a68ff2-56c2-47c3-a000-13fe928d482e.png" /></a>
+  <div href="https://wakatime.com/@cb76e4c3-c5d4-4e10-b37f-6c129a34be9d">
+    <img align="center" alt="wakaTime" src="https://wakatime.com/badge/user/cb76e4c3-c5d4-4e10-b37f-6c129a34be9d.svg">
   </div>
+
+[![](https://visitcount.itsvg.in/api?id=Gabriel-Moretti&icon=5&color=6)](https://visitcount.itsvg.in)
 </div>
 
 ## Social
@@ -92,13 +43,12 @@ When I was young, I always had a Lego in my hand, but I never built what was in 
 
 ## Dev Env
 - Desktop snow Theme
-  - Game-OS: Windows 11 + WSL2 (w/Ubuntu)
   - Main-OS: Arch w/Bspwm (rice)
 - Peripherals
   - Monitors: LG 27' IPS + LG 29' Ultra Wide.
-  - Keyboard: Sofle V2 - Building...
-  - Mouse: Logitech Mx Master 2s and M800.
-  - Headset: Hyperx Cloud 2 aand Galaxy Buds 2.
+  - Keyboard: Sofle V2
+  - Mouse: Logitech Mx Master 2s.
+  - Headset: Zeus X Pro.
   - Microphone: TGT Anzer.
+  - Webcam: P5 Poly 1080p.
 
-[![](https://visitcount.itsvg.in/api?id=Gabriel-Moretti&icon=5&color=0)](https://visitcount.itsvg.in)
